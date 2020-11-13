@@ -1,0 +1,1344 @@
+﻿player_name;team;notes;gender
+7;SPOR TOTO;N1 1-2;M
+5;SPOR TOTO;N2 2-2;M
+6;SPOR TOTO;B;M
+10;SPOR TOTO;S bruno 1-2;M
+11;SPOR TOTO;B;M
+8;SPOR TOTO;U Wallace 1-1;M
+19;SPOR TOTO;S fereire2-2;M
+7;SORGUN BLD.;B;M
+8;SORGUN BLD.;U Cepeda1-1;M
+9;SORGUN BLD.;S1 CIROVIC 1-2;M
+12;SORGUN BLD.;N 1-1;M
+15;SORGUN BLD.;B;M
+18;SORGUN BLD.;S2 1-2;M
+4;İSTANBUL BBSK;S2 1-2;M
+8;İSTANBUL BBSK;S1 dolezity 2-2;M
+9;İSTANBUL BBSK;B;M
+10;İSTANBUL BBSK;N1-1;M
+15;İSTANBUL BBSK;B;M
+19;İSTANBUL BBSK;U Coskun 1-1;M
+1;GALATASARAY HDI SİGORTA;N 1-2;M
+2;GALATASARAY HDI SİGORTA;S Avci 1-4;M
+3;GALATASARAY HDI SİGORTA;S Siratca1-4;M
+7;GALATASARAY HDI SİGORTA;B;M
+8;GALATASARAY HDI SİGORTA;S Subasi1-4;M
+9;GALATASARAY HDI SİGORTA;S Aydin1-4;M
+10;GALATASARAY HDI SİGORTA;N yenipazar 2-2;M
+11;GALATASARAY HDI SİGORTA;U Torres1-1;M
+17;GALATASARAY HDI SİGORTA;B;M
+1;ALTEKMA;U2 2-2;M
+7;ALTEKMA;B;M
+9;ALTEKMA;S Hacioglu 1-2;M
+14;ALTEKMA;N buculjevic 1-1;M
+17;ALTEKMA;U1 1-2;M
+18;ALTEKMA;S HAMACHER 2-2;M
+19;ALTEKMA;B;M
+1;ARKAS SPOR;U mandiraci 1-2;M
+4;ARKAS SPOR;S gungor 1-2;M
+8;ARKAS SPOR;B 1;M
+9;ARKAS SPOR;N blankenau 1-1;M
+11;ARKAS SPOR;S gulmezoglu 2-2;M
+17;ARKAS SPOR;U2 2-2;M
+20;ARKAS SPOR;B2;M
+1;ZİRAAT BANKKART;S1 1-3;M
+2;ZİRAAT BANKKART;U 1-1;M
+3;ZİRAAT BANKKART;S2-3;M
+7;ZİRAAT BANKKART;B;M
+8;ZİRAAT BANKKART;S3 3-3;M
+10;ZİRAAT BANKKART;N 1-1;M
+12;ZİRAAT BANKKART;B;M
+5;İNEGÖL BLD.;S uriarte 1-2;M
+6;İNEGÖL BLD.;B;M
+10;İNEGÖL BLD.;N;M
+12;İNEGÖL BLD.;B;M
+14;İNEGÖL BLD.;U giorgiev 1-1;M
+18;İNEGÖL BLD.;S bahov 2-2;M
+1;BURSA B.ŞEHİR BLD.;N2-2;M
+4;BURSA B.ŞEHİR BLD.;N1-2;M
+8;BURSA B.ŞEHİR BLD.;S1-2;M
+9;BURSA B.ŞEHİR BLD.;U 1-1;M
+11;BURSA B.ŞEHİR BLD.;S2-2;M
+15;BURSA B.ŞEHİR BLD.;B;M
+10;BURSA B.ŞEHİR BLD.;B;M
+7;HALKBANK;N 1-1;M
+10;HALKBANK;B;M
+12;HALKBANK;S1-3;M
+13;HALKBANK;B;M
+19;HALKBANK;U hernandez 1-1;M
+20;HALKBANK;S2-3;M
+8;HALKBANK;S3-3;M
+1;TOKAT BELEDİYE PLEVNE;N1-1;M
+2;TOKAT BELEDİYE PLEVNE;U1-1;M
+5;TOKAT BELEDİYE PLEVNE;B3;M
+6;TOKAT BELEDİYE PLEVNE;S1-2;M
+8;TOKAT BELEDİYE PLEVNE;B;M
+9;TOKAT BELEDİYE PLEVNE;B;M
+18;TOKAT BELEDİYE PLEVNE;S2-2;M
+1;FENERBAHÇE HDI SİGORTA;N 1-1;M
+3;FENERBAHÇE HDI SİGORTA;B;M
+4;FENERBAHÇE HDI SİGORTA;S2-3;M
+10;FENERBAHÇE HDI SİGORTA;B;M
+13;FENERBAHÇE HDI SİGORTA;S1-3;M
+15;FENERBAHÇE HDI SİGORTA;U1-1;M
+8;FENERBAHÇE HDI SİGORTA;S3-3;M
+2;HALİLİYE BLD.;S 2/2;M
+15;HALİLİYE BLD.;N 1/2;M
+9;HALİLİYE BLD.;U dolezity 1/1;M
+14;HALİLİYE BLD.;S dolezity 1/1;M
+17;HALİLİYE BLD.;B;M
+10;HALİLİYE BLD.;B;M
+3;AFYON BLD. YÜNTAŞ;N;M
+5;AFYON BLD. YÜNTAŞ;S sket 1-3;M
+6;AFYON BLD. YÜNTAŞ;S poglajen 1-3;M
+10;AFYON BLD. YÜNTAŞ;S1-3/U1-2 dobry;M
+12;AFYON BLD. YÜNTAŞ;U1-2 lima;M
+13;AFYON BLD. YÜNTAŞ;B;M
+18;AFYON BLD. YÜNTAŞ;B;M
+17;ARHAVİ VOLEYBOL;UCKO;M
+1;SOLHAN SPOR;U krauchuk 1-1;M
+6;SOLHAN SPOR;S massari1-2;M
+7;SOLHAN SPOR;N1-1;M
+10;SOLHAN SPOR;B;M
+14;SOLHAN SPOR;B;M
+15;SOLHAN SPOR;S kuklinski 1-2;M
+1;İLBANK;N 1-1;F
+16;İLBANK;U1-1;F
+10;İLBANK;B;F
+3;İLBANK;S3-3;F
+12;İLBANK;S1-MVP1-3;F
+20;İLBANK;S2-3;F
+18;İLBANK;B;F
+1;TÜRK HAVA YOLLARI;N1-1;F
+5;TÜRK HAVA YOLLARI;S2-3;F
+8;TÜRK HAVA YOLLARI;B;F
+11;TÜRK HAVA YOLLARI;S1-3;F
+19;TÜRK HAVA YOLLARI;S3-3;F
+13;TÜRK HAVA YOLLARI;B;F
+18;TÜRK HAVA YOLLARI;U-MVP 1-1;F
+2;BEŞİKTAŞ;B;F
+4;BEŞİKTAŞ;S2-2;F
+7;BEŞİKTAŞ;S-MVP 1-2;F
+11;BEŞİKTAŞ;N;F
+14;BEŞİKTAŞ;U1-1;F
+16;BEŞİKTAŞ;B;F
+7;PTT;S4-4;F
+5;PTT;S3-4;F
+10;PTT;S2-4;F
+11;PTT;B dolezity;F
+14;PTT;U-MVP 1-1;F
+15;PTT;B;F
+17;PTT;N1-1;F
+20;PTT;S1-4;F
+5;KUZEYBORU;S1-2;F
+7;KUZEYBORU;N1-1;F
+11;KUZEYBORU;S2-2;F
+13;KUZEYBORU;B;F
+16;KUZEYBORU;B;F
+17;KUZEYBORU;U1-1;F
+5;AYDIN B.ŞEHİR BLD.;B1-1;F
+1;AYDIN B.ŞEHİR BLD.;S1-3;F
+17;AYDIN B.ŞEHİR BLD.;S3-3;F
+11;AYDIN B.ŞEHİR BLD.;N1-1;F
+6;AYDIN B.ŞEHİR BLD.;S2-3;F
+13;AYDIN B.ŞEHİR BLD.;U-MVP 1-1;F
+2;SARIYER BLD.;N1-1;F
+6;SARIYER BLD.;B;F
+9;SARIYER BLD.;U2-2;F
+10;SARIYER BLD.;U1-2 ;F
+11;SARIYER BLD.;S2-2;F
+12;SARIYER BLD.;S1-2;F
+4;SARIYER BLD.;B;F
+3;ECZACIBAŞI VİTRA;U boskovvic;F
+4;ECZACIBAŞI VİTRA;B;F
+7;ECZACIBAŞI VİTRA;S2-3;F
+6;ECZACIBAŞI VİTRA;S3-3;F
+8;ECZACIBAŞI VİTRA;B;F
+12;ECZACIBAŞI VİTRA;N2-2;F
+9;ECZACIBAŞI VİTRA;S1-3;F
+13;ECZACIBAŞI VİTRA;N1-2;F
+8;FENERBAHÇE OPET;B;F
+9;FENERBAHÇE OPET;U-MVP1-1;F
+6;FENERBAHÇE OPET;N2-2;F
+10;FENERBAHÇE OPET;S2-2;F
+12;FENERBAHÇE OPET;S1-2 mvp ;F
+14;FENERBAHÇE OPET;B;F
+17;FENERBAHÇE OPET;N1-2;F
+1;NİLÜFER BLD.;S2-2;F
+4;NİLÜFER BLD.;U1-1;F
+8;NİLÜFER BLD.;N1-1;F
+13;NİLÜFER BLD.;S1-2-MVP;F
+18;NİLÜFER BLD.;B;F
+19;NİLÜFER BLD.;B;F
+10;KARAYOLLARI;B;F
+2;KARAYOLLARI;S1-3;F
+7;KARAYOLLARI;B;F
+8;KARAYOLLARI;N1-1;F
+9;KARAYOLLARI;S2-3;F
+12;KARAYOLLARI;S3-3;F
+17;KARAYOLLARI;U1-1-MVP;F
+2;SİSTEM9 YEŞİLYURT;B;F
+7;SİSTEM9 YEŞİLYURT;N1-1;F
+14;SİSTEM9 YEŞİLYURT;U1-1-MVP;F
+16;SİSTEM9 YEŞİLYURT;S1-2;F
+17;SİSTEM9 YEŞİLYURT;S2-2;F
+18;SİSTEM9 YEŞİLYURT;B;F
+2;ÇAN GENÇLİK KALE SPOR;S2-2;F
+7;ÇAN GENÇLİK KALE SPOR;B;F
+8;ÇAN GENÇLİK KALE SPOR;U1-1 MVP;F
+9;ÇAN GENÇLİK KALE SPOR;S1-2;F
+12;ÇAN GENÇLİK KALE SPOR;B;F
+17;ÇAN GENÇLİK KALE SPOR;N1-1;F
+2;GALATASARAY HDI SİGORTA;S1-2;F
+5;GALATASARAY HDI SİGORTA;B;F
+7;GALATASARAY HDI SİGORTA;N1-1;F
+8;GALATASARAY HDI SİGORTA;B;F
+10;GALATASARAY HDI SİGORTA;S2-2;F
+17;GALATASARAY HDI SİGORTA;U-MVP-MVP;F
+13;VAKIFBANK;S3-3;F
+9;VAKIFBANK;S2-3;F
+3;VAKIFBANK;N2-2;F
+10;VAKIFBANK;S1-3;F
+11;VAKIFBANK;U1-1;F
+17;VAKIFBANK;N1-2;F
+16;VAKIFBANK;B1;F
+18;VAKIFBANK;B;F
+99;BEYLİKDÜZÜ VOLEYBOL İHTİSAS;XXX;X
+5;Ústí n. L.;S2-2;M
+8;Ústí n. L.;U1-2;M
+10;Ústí n. L.;S1-2;M
+3;Ústí n. L.;B;M
+7;Ústí n. L.;B;M
+9;Ústí n. L.;N1-1;M
+1;Ústí n. L.;U2-2;M
+2;Liberec;S1-3;M
+17;Liberec;S3-3;M
+14;Liberec;S2-3;M
+11;Liberec;U1-2;M
+3;Liberec;B1;M
+9;Liberec;B2;M
+18;Liberec;U2-2;M
+7;Liberec;N2-2;M
+13;Liberec;N1-2;M
+10;Karlovarsko;S1-3;M
+11;Karlovarsko;S3-3;M
+13;Karlovarsko;S2-3;M
+4;Karlovarsko;U1-2;M
+23;Karlovarsko;U2-2;M
+12;Karlovarsko;B;M
+14;Karlovarsko;B;M
+5;Karlovarsko;N1-1;M
+3;Příbram;S1-2;M
+12;Příbram;S2-2;M
+2;Příbram;U1-2;M
+1;Příbram;B;M
+11;Příbram;B;M
+14;Příbram;N1-1;M
+6;Praha;S2-3;M
+2;Praha;S3-3;M
+15;Praha;S1-3;M
+14;Praha;U1-1;M
+8;Praha;B;M
+20;Praha;B;M
+18;Praha;N1-1;M
+1;Brno;S1-2;M
+4;Brno;N1-1;M
+7;Brno;B;M
+9;Brno;S2-2;M
+10;Brno;U1-1;M
+11;Brno;B;M
+3;Kladno;N1-1;M
+4;Kladno;U1-1;M
+5;Kladno;B;M
+6;Kladno;S1-2;M
+9;Kladno;S2-2;M
+21;Kladno;B;M
+11;Ostrava;S1-2;M
+13;Ostrava;S2-2;M
+4;Ostrava;U2;M
+2;Ostrava;N2-2;M
+5;Ostrava;B;M
+4;Ostrava;U2-2;M
+14;Ostrava;U1-2;M
+7;Ostrava;B;M
+12;Ostrava;N1-2;M
+5;Zlín;S2-2;M
+12;Zlín;U1-1;M
+4;Zlín;S1-2;M
+9;Zlín;B;M
+11;Zlín;B;M
+8;Zlín;N2-2;M
+2;Zlín;N1-2;M
+7;Č. Budějovice;S1-3;M
+19;Č. Budějovice;S2-3;M
+14;Č. Budějovice;S3-3;M
+2;Č. Budějovice;U1-2;M
+18;Č. Budějovice;U2-3;M
+12;Č. Budějovice;B;M
+10;Č. Budějovice;N1-1;M
+8;Č. Budějovice;B;M
+3;Beskydy;S1-2;M
+8;Beskydy;B;M
+10;Beskydy;S2-2;M
+11;Beskydy;U1-1;M
+14;Beskydy;N1-1;M
+16;Beskydy;B;M
+6;O. Voda;S2-2;M
+11;O. Voda;S1-2;M
+5;O. Voda;U1-1;M
+7;O. Voda;B;M
+22;O. Voda;B;M
+13;O. Voda;N1-1;F
+5;Prostějov;S1-3;F
+11;Prostějov;N2-2;F
+1;Prostějov;N1-2;F
+7;Prostějov;S3-3;F
+9;Prostějov;S2-3;F
+10;Prostějov;U1-1 naj hracka;F
+2;Prostějov;B;F
+13;Prostějov;B;F
+9;VK Brno;S1-3;F
+20;VK Brno;S2-3;F
+13;VK Brno;S3-3/U1-2doelzita;F
+2;VK Brno;U2-2;F
+11;VK Brno;N1-2;F
+12;VK Brno;B;F
+6;VK Brno;N2-2;F
+18;Přerov;S2-3;F
+12;Přerov;S3-3;F
+16;Přerov;S1-3;F
+5;Přerov;U1-1;F
+11;Přerov;B;F
+15;Přerov;B;F
+3;Přerov;N1-1;F
+8;Liberec;S1-2;F
+10;Liberec;S2-2;F
+11;Liberec;U1-1;F
+7;Liberec;N2-2;F
+3;Liberec;B;F
+5;Liberec;B;F
+14;Liberec;N1-2;F
+5;Ostrava;B;F
+10;Ostrava;S1-2;F
+2;Ostrava;N2-2;F
+12;Ostrava;S2-2;F
+7;Ostrava;U1-1;F
+14;Ostrava;B;F
+4;Ostrava;N1-2;F
+17;Frýdek-Místek;S1-2;F
+12;Frýdek-Místek;U1-1;F
+10;Frýdek-Místek;B;F
+16;Frýdek-Místek;B;F
+8;Frýdek-Místek;N1-1;F
+1;Frýdek-Místek;S2-2;F
+2;Kr. Pole;S3-3;F
+15;Kr. Pole;S2-3;F
+8;Kr. Pole;S1-3;F
+11;Kr. Pole;U1-1;F
+3;Kr. Pole;B;F
+6;Kr. Pole;B;F
+17;Kr. Pole;N1-1;F
+1;Šternberk;B;F
+3;Šternberk;S1-2;F
+4;Šternberk;U1-1;F
+9;Šternberk;N2-2;F
+6;Šternberk;N1-2;F
+10;Šternberk;B;F
+11;Šternberk;S2-2;F
+9;Olomouc;S1-2;F
+16;Olomouc;S2-2;F
+6;Olomouc;U1-1;F
+5;Olomouc;B;F
+10;Olomouc;B;F
+15;Olomouc;N1-1;F
+5;Olymp;S1-3;F
+9;Olymp;S3-3;F
+15;Olymp;S2-3;F
+1;Olymp;N2-2;F
+4;Olymp;U1-1;F
+8;Olymp;B;F
+18;Olymp;B;F
+6;Olymp;N1-2;F
+17;DUNAFERR SE;S1-2;X
+1;DUNAFERR SE;S2-2;X
+3;DUNAFERR SE;N2-2;X
+2;DUNAFERR SE;B;X
+13;DUNAFERR SE;N1-2;X
+5;DUNAFERR SE;U1-1;X
+6;DUNAFERR SE;B;X
+8;Vegyész RC Kazincbarcika;S1-2;X
+10;Vegyész RC Kazincbarcika;S1-2;X
+6;Vegyész RC Kazincbarcika;N1-1;X
+15;Vegyész RC Kazincbarcika;U1-1;X
+3;Vegyész RC Kazincbarcika;B;X
+7;Vegyész RC Kazincbarcika;B;X
+2;DEAC SNK KFT;B;X
+4;DEAC SNK KFT;S1-2;X
+6;DEAC SNK KFT;B;X
+20;DEAC SNK KFT;N1-1;X
+13;DEAC SNK KFT;U1-1;X
+18;DEAC SNK KFT;S1-2;X
+1;KECSKEMÉTI RC;B;X
+4;KECSKEMÉTI RC;S1-2;X
+9;KECSKEMÉTI RC;S2-2;X
+10;KECSKEMÉTI RC;N1-1;X
+12;KECSKEMÉTI RC;B;X
+17;KECSKEMÉTI RC;U1-1;X
+2;MAFC-BME;S1-2;X
+8;MAFC-BME;U1-1-MVP;X
+10;MAFC-BME;S2-2;X
+11;MAFC-BME;B;X
+17;MAFC-BME;B;X
+18;MAFC-BME;N1-1;X
+5;FINO Kaposvár;U1-1;X
+7;FINO Kaposvár;B;X
+11;FINO Kaposvár;S2-2;X
+12;FINO Kaposvár;S1-2;X
+13;FINO Kaposvár;N1-1;X
+1;FINO Kaposvár;B1;X
+6;LV SPORT PÉNZÜGYŐR SE;N1-1;M
+7;LV SPORT PÉNZÜGYŐR SE;B;M
+8;LV SPORT PÉNZÜGYŐR SE;U1-1;M
+12;LV SPORT PÉNZÜGYŐR SE;S1-2;M
+17;LV SPORT PÉNZÜGYŐR SE;B;M
+19;LV SPORT PÉNZÜGYŐR SE;S2-2;M
+6;MÁV ELŐRE Bericap;S1-2;M
+7;MÁV ELŐRE Bericap;N2-2;M
+8;MÁV ELŐRE Bericap;S2-2;M
+10;MÁV ELŐRE Bericap;N1-2;M
+13;MÁV ELŐRE Bericap;U1-1;M
+16;MÁV ELŐRE Bericap;B;M
+18;MÁV ELŐRE Bericap;B;M
+1;SÜMEGI RÖPLABDA EGYESÜLET;S2-2;M
+2;SÜMEGI RÖPLABDA EGYESÜLET;B;M
+16;SÜMEGI RÖPLABDA EGYESÜLET;U2-2;M
+3;SÜMEGI RÖPLABDA EGYESÜLET;B;M
+6;SÜMEGI RÖPLABDA EGYESÜLET;U1-2;M
+11;SÜMEGI RÖPLABDA EGYESÜLET;S1-2;M
+12;SÜMEGI RÖPLABDA EGYESÜLET;N1-1;M
+1;DÁG KSE;N1-1;M
+2;DÁG KSE;S1-2;M
+3;DÁG KSE;B;M
+4;DÁG KSE;S2-2;M
+9;DÁG KSE;U1-1;M
+13;DÁG KSE;B;M
+3;Szolnoki Röplabda klub;B;M
+4;Szolnoki Röplabda klub;S2-3;M
+5;Szolnoki Röplabda klub;S1-3;M
+7;Szolnoki Röplabda klub;U1-1;M
+8;Szolnoki Röplabda klub;B;M
+11;Szolnoki Röplabda klub;N1-1;M
+12;Szolnoki Röplabda klub;S3-3;M
+2;MEAFC-Miskolc;S2-3;M
+5;MEAFC-Miskolc;B2;M
+6;MEAFC-Miskolc;B1;M
+10;MEAFC-Miskolc;U1-2;M
+13;MEAFC-Miskolc;U2-2;M
+14;MEAFC-Miskolc;S1-3;M
+17;MEAFC-Miskolc;N1-1;M
+1;KISTEXT;N1-1;M
+3;KISTEXT;U1-1;M
+5;KISTEXT;S1-2;M
+7;KISTEXT;B;M
+9;KISTEXT;B;M
+12;KISTEXT;S2-2;M
+99;Vidux-Szegedi RSE;XXX;M
+3;Szent Benedek RA;B;F
+4;Szent Benedek RA;U1-1;F
+6;Szent Benedek RA;B;F
+10;Szent Benedek RA;N1-1;F
+11;Szent Benedek RA;S1-2;F
+18;Szent Benedek RA;S2-2;F
+2;DVTK;N2-2;F
+4;DVTK;B;F
+6;DVTK;B;F
+8;DVTK;S1-3;F
+10;DVTK;S2-3;F
+12;DVTK;N1-2;F
+19;DVTK;U1-1;F
+3;Vasas Óbuda;N1-1;F
+6;Vasas Óbuda;S2-3;F
+7;Vasas Óbuda;S1-3;F
+10;Vasas Óbuda;B;F
+11;Vasas Óbuda;U1-1;F
+14;Vasas Óbuda;S3-3;F
+19;Vasas Óbuda;B;F
+1;SWIETELSKY - BRSE;U1-1-Mvp;F
+2;SWIETELSKY - BRSE;N1-1;F
+6;SWIETELSKY - BRSE;S1-3;F
+8;SWIETELSKY - BRSE;B;F
+18;SWIETELSKY - BRSE;S3-3;F
+11;SWIETELSKY - BRSE;S2-3;F
+16;SWIETELSKY - BRSE;B;F
+1;FATUM Nyíregyháza;S2-2;F
+10;FATUM Nyíregyháza;N1-1;F
+11;FATUM Nyíregyháza;U1-1;F
+12;FATUM Nyíregyháza;S1-2-MVP;F
+14;FATUM Nyíregyháza;B;F
+17;FATUM Nyíregyháza;B;F
+1;1. MCM-Diamant Kaposvár;S1-3- mvp;F
+7;2. MCM-Diamant Kaposvár;N1-1;F
+9;3. MCM-Diamant Kaposvár;B;F
+12;4. MCM-Diamant Kaposvár;S3-3;F
+10;4. MCM-Diamant Kaposvár;S2-3;F
+15;5. MCM-Diamant Kaposvár;B;F
+17;6. MCM-Diamant Kaposvár;U1-1;F
+1;MTK Budapest;U1-1 mvp;F
+4;MTK Budapest;B;F
+5;MTK Budapest;S3-3;F
+9;MTK Budapest;S1-3;F
+11;MTK Budapest;B;F
+12;MTK Budapest;N1-1;F
+15;MTK Budapest;S2-3;F
+2;UTE;S1-2;F
+4;UTE;N1-1;F
+6;UTE;B;F
+9;UTE;B;F
+16;UTE;U1-1;F
+17;UTE;S2-2;F
+3;PTE-PEAC;S1-2;F
+4;PTE-PEAC;B;F
+20;PTE-PEAC;N1-1;F
+12;PTE-PEAC;B;F
+14;PTE-PEAC;S2-2;F
+17;PTE-PEAC;U1-1;F
+1;Budaörsi DSE;N1-1;F
+2;Budaörsi DSE;U nezlozila este;F
+4;Budaörsi DSE;S1-3;F
+6;Budaörsi DSE;S2-3;F
+19;Budaörsi DSE;S3-3;F
+14;Budaörsi DSE;B;F
+16;Budaörsi DSE;B;F
+1;GÖDÖLLŐI RC;U1-1;F
+3;GÖDÖLLŐI RC;B;F
+5;GÖDÖLLŐI RC;S2-2;F
+8;GÖDÖLLŐI RC;N1-1;F
+17;GÖDÖLLŐI RC;S1-1;F
+19;GÖDÖLLŐI RC;B;F
+1;TFSE;N1-1;F
+3;TFSE;U1-1;F
+5;TFSE;B;F
+8;TFSE;S1-3;F
+6;TFSE;S2-3;F
+9;TFSE;B;F
+13;TFSE;S3-3;F
+1;Jászberény Volleyball Team;B ;F
+3;Jászberény Volleyball Team;S3;F
+12;Jászberény Volleyball Team;U;F
+15;Jászberény Volleyball Team;B;F
+16;Jászberény Volleyball Team;N;F
+18;Jászberény Volleyball Team;S1;F
+20;Jászberény Volleyball Team;S2;F
+99;MÁV ELŐRE Bericap;XXX;F
+99;DSZC-EÖTVÖS DSE, DERECSKE;XXX;F
+1;LE CANNET;U1-2-MVP;F
+14;LE CANNET;U-2-2;F
+3;LE CANNET;B2;F
+5;LE CANNET;B1;F
+7;LE CANNET;B3;F
+8;LE CANNET;S4-4;F
+9;LE CANNET;S1-4;F
+10;LE CANNET;N;F
+11;LE CANNET;S2-4;F
+15;LE CANNET;S3-4;F
+1;VANDOEUVRE NANCY;U1-2;F
+2;VANDOEUVRE NANCY;B;F
+5;VANDOEUVRE NANCY;B;F
+15;VANDOEUVRE NANCY;N2-2;F
+7;VANDOEUVRE NANCY;N1-2;F
+11;VANDOEUVRE NANCY;S1-1;F
+17;VANDOEUVRE NANCY;S3-3;F
+12;VANDOEUVRE NANCY;S2-2/U2-2;F
+1;ISTRES;B;F
+6;ISTRES;B;F
+10;ISTRES;S3-3;F
+4;ISTRES;U1-1;F
+11;ISTRES;N1-1;F
+17;ISTRES;S1-3;F
+18;ISTRES;S2-3;F
+4;PARIS SAINT-CLOUD;S1-2;F
+6;PARIS SAINT-CLOUD;S2-2;F
+7;PARIS SAINT-CLOUD;B;F
+9;PARIS SAINT-CLOUD;N1-1;F
+11;PARIS SAINT-CLOUD;U1-1;F
+19;PARIS SAINT-CLOUD;B;F
+1;CHAMALIERES;U2-2/S3-3;F
+20;CHAMALIERES;S2-2;F
+6;CHAMALIERES;S1-2;F
+3;CHAMALIERES;N2-2;F
+14;CHAMALIERES;N1-2;F
+7;CHAMALIERES;U1-2;F
+12;CHAMALIERES;B;F
+3;MOUGINS;N;F
+6;MOUGINS;B;F
+10;MOUGINS;N2-2;F
+7;MOUGINS;S/U-MVP!!;F
+11;MOUGINS;S3-3;F
+12;MOUGINS;B;F
+15;MOUGINS;S2-2prijem ;F
+19;MOUGINS;U;F
+3;MARCQ-EN-BAROEUL;S2-3;F
+1;MARCQ-EN-BAROEUL;U1-1;F
+4;MARCQ-EN-BAROEUL;B;F
+6;MARCQ-EN-BAROEUL;S3-3;F
+7;MARCQ-EN-BAROEUL;N1-1;F
+11;MARCQ-EN-BAROEUL;B;F
+19;MARCQ-EN-BAROEUL;S1-3;F
+1;NANTES;S1-2;F
+5;NANTES;S2-2;F
+6;NANTES;U1-1;F
+7;NANTES;B Ž;F
+8;NANTES;N1-1;F
+10;NANTES;B Ž;F
+1;MULHOUSE;S1-3;F
+12;MULHOUSE;S3-3;F
+4;MULHOUSE;S2-3;F
+5;MULHOUSE;B;F
+10;MULHOUSE;N1-1;F
+13;MULHOUSE;U1-1;F
+16;MULHOUSE;B;F
+1;CANNES;B Ž;F
+2;CANNES;U1-1;F
+4;CANNES;S3-3;F
+5;CANNES;S1-3-MVP ;F
+10;CANNES;S2-3;F
+15;CANNES;N1-1;F
+19;CANNES;B Ž;F
+1;PAYS D'AIX VENELLES;B;F
+3;PAYS D'AIX VENELLES;B;F
+11;PAYS D'AIX VENELLES;N1-1;F
+14;PAYS D'AIX VENELLES;S2-2;F
+19;PAYS D'AIX VENELLES;U1-1;F
+20;PAYS D'AIX VENELLES;S1-2- MVP;F
+1;SAINT-RAPHAËL;N1-2;F
+4;SAINT-RAPHAËL;N2-2;F
+5;SAINT-RAPHAËL;S2-2;F
+6;SAINT-RAPHAËL;B1;F
+7;SAINT-RAPHAËL;S1-2;F
+13;SAINT-RAPHAËL;U1-1;F
+15;SAINT-RAPHAËL;B;F
+4;TERVILLE-FLORANGE;S2-2;F
+10;TERVILLE-FLORANGE;U1-1;F
+6;TERVILLE-FLORANGE;N2-2;F
+8;TERVILLE-FLORANGE;B;F
+13;TERVILLE-FLORANGE;S3-3;F
+12;TERVILLE-FLORANGE;S1-2mvp;F
+11;TERVILLE-FLORANGE;N1-2;F
+1;TERVILLE-FLORANGE;B;F
+1;FRANCE AVENIR 2024;B;F
+3;FRANCE AVENIR 2025;S2-2;F
+8;FRANCE AVENIR 2026;N1-1;F
+11;FRANCE AVENIR 2027;U1-1;F
+15;FRANCE AVENIR 2028;S1-2;F
+20;FRANCE AVENIR 2029;B;F
+1;NANTES REZÉ;U1-1-MVP;M
+3;NANTES REZÉ;S1-2;M
+5;NANTES REZÉ;S2-2;M
+6;NANTES REZÉ;B;M
+14;NANTES REZÉ;B1;M
+15;NANTES REZÉ;N1-1;M
+1;PARIS;N1-1;M
+3;PARIS;S2-2;M
+7;PARIS;U1-2;M
+6;PARIS;U2-2;M
+9;PARIS;S1-2;M
+10;PARIS;B;M
+19;PARIS;B;M
+3;NARBONNE;S2-2;M
+4;NARBONNE;B;M
+5;NARBONNE;N1-1 MVP;M
+11;NARBONNE;U1-1 MVP;M
+17;NARBONNE;S1-2;M
+18;NARBONNE;B;M
+1;SÈTE;B;M
+4;SÈTE;S1-3;M
+10;SÈTE;N1-1;M
+15;SÈTE;S3-3/U2-2;M
+13;SÈTE;U1-2;M
+18;SÈTE;B;M
+20;SÈTE;S1-3;M
+2;CHAUMONT;S1-3;M
+3;CHAUMONT;S2-3;M
+18;CHAUMONT;S3-3;M
+4;CHAUMONT;U1-1;M
+6;CHAUMONT;N1-1;M
+8;CHAUMONT;B;M
+17;CHAUMONT;B;M
+7;TOURCOING;S1-3;M
+10;TOURCOING;S3-3;M
+9;TOURCOING;B;M
+12;TOURCOING;S2-3;M
+14;TOURCOING;B;M
+15;TOURCOING;N1-1;M
+19;TOURCOING;U1-1;M
+2;CAMBRAI;N1-1;M
+3;CAMBRAI;B;M
+7;CAMBRAI;S1-2;M
+9;CAMBRAI;S2-2;M
+12;CAMBRAI;U1-1;M
+17;CAMBRAI;B;M
+6;CANNES;S1-2;M
+7;CANNES;S1-2;M
+8;CANNES;N1-2;M
+9;CANNES;B;M
+13;CANNES;B;M
+18;CANNES;U1-1-MVP;M
+1;TOURS;S2-2;M
+5;TOURS;B;M
+14;TOURS;S1-2;M
+15;TOURS;B;M
+17;TOURS;N1-2;M
+11;TOURS;U2-2;M
+19;TOURS;U1-2;M
+8;TOURS;N2-2;M
+1;AJACCIO;S2-2;M
+8;AJACCIO;S3-3;M
+5;AJACCIO;B;M
+6;AJACCIO;S1-3;M
+7;AJACCIO;B;M
+11;AJACCIO;N1-1;M
+13;AJACCIO;U1-1;M
+1;POITIERS;S3-3;M
+2;POITIERS;B;M
+8;POITIERS;S2-3;M
+9;POITIERS;B;M
+13;POITIERS;N1-1;M
+15;POITIERS;U1-1-MVP;M
+17;POITIERS;S1-3-dolezity;M
+3;TOULOUSE;B;M
+4;TOULOUSE;S1-3;M
+8;TOULOUSE;S2-3;M
+9;TOULOUSE;N1-1;M
+11;TOULOUSE;U1-1;M
+12;TOULOUSE;S3-3;M
+14;TOULOUSE;B;M
+1;MONTPELLIER;N1-1;M
+9;MONTPELLIER;S3-3;M
+6;MONTPELLIER;B;M
+8;MONTPELLIER;S2-3;M
+10;MONTPELLIER;U1-1;M
+13;MONTPELLIER;S1-3;M
+14;MONTPELLIER;B1;M
+99;NICE;XXX;M
+1;Lindemans AALST;S3-3;M
+5;Lindemans AALST;B;M
+10;Lindemans AALST;S2-3;M
+9;Lindemans AALST;U1-2;M
+11;Lindemans AALST;N1-1;M
+12;Lindemans AALST;B;M
+14;Lindemans AALST;S1-3;M
+13;Lindemans AALST;U2-2;M
+1;Decospan Volley Team MENEN;S1-2;M
+3;Decospan Volley Team MENEN;B;M
+4;Decospan Volley Team MENEN;S1-2;M
+11;Decospan Volley Team MENEN;N1-1;M
+16;Decospan Volley Team MENEN;U1-1;M
+18;Decospan Volley Team MENEN;B;M
+7;Tectum ACHEL;B;M
+15;Tectum ACHEL;B;M
+12;Tectum ACHEL;S3-3;M
+13;Tectum ACHEL;N1-1;M
+4;Tectum ACHEL;S2-3;M
+3;Tectum ACHEL;S1-3;M
+9;Tectum ACHEL;U2;M
+1;Tectum ACHEL;U1;M
+3;VC Greenyard MAASEIK;S2-3;M
+5;VC Greenyard MAASEIK;S1-3;M
+12;VC Greenyard MAASEIK;S3-3;M
+10;VC Greenyard MAASEIK;U1-1;M
+14;VC Greenyard MAASEIK;N1-1;M
+13;VC Greenyard MAASEIK;B;M
+9;VC Greenyard MAASEIK;B1;M
+7;Caruur Volley GENT;U1-1 dolez;M
+8;Caruur Volley GENT;B;M
+10;Caruur Volley GENT;S1-2 dolez;M
+11;Caruur Volley GENT;N1-1;M
+17;Caruur Volley GENT;S2-2;M
+19;Caruur Volley GENT;B;M
+2;Knack ROESELARE;U1-1MVP;M
+3;Knack ROESELARE;B;M
+4;Knack ROESELARE;N1-1 dolez;M
+5;Knack ROESELARE;B;M
+8;Knack ROESELARE;S1-2;M
+15;Knack ROESELARE;S1-2;M
+3;BDO HAASRODE LEUVEN;B;M
+8;BDO HAASRODE LEUVEN;S2-3;M
+9;BDO HAASRODE LEUVEN;N2-2;M
+11;BDO HAASRODE LEUVEN;S3-3;M
+12;BDO HAASRODE LEUVEN;U1-1 dolez;M
+13;BDO HAASRODE LEUVEN;B;M
+14;BDO HAASRODE LEUVEN;N1-2;M
+17;BDO HAASRODE LEUVEN;S1-3;M
+1;VBC WAREMME;S2-3;M
+7;VBC WAREMME;S1-3;M
+9;VBC WAREMME;B;M
+13;VBC WAREMME;N1-1;M
+17;VBC WAREMME;B;M
+18;VBC WAREMME;U1-1;M
+10;VBC WAREMME;S3-3;M
+5;Hurrikaani Loimaa;S3-3;M
+6;Hurrikaani Loimaa;N1-1;M
+7;Hurrikaani Loimaa;S2-3;M
+9;Hurrikaani Loimaa;U2-2;M
+11;Hurrikaani Loimaa;S1-3;M
+12;Hurrikaani Loimaa;B;M
+13;Hurrikaani Loimaa;U1-2;M
+8;Hurrikaani Loimaa;B;M
+1;Vantaa Ducks;N1-1;M
+5;Vantaa Ducks;S2-3;M
+11;Vantaa Ducks;S3-3;M
+10;Vantaa Ducks;S1-3;M
+13;Vantaa Ducks;U1-1;M
+16;Vantaa Ducks;B1;M
+18;Vantaa Ducks;B;M
+4;Savo Volley;S1-2;M
+5;Savo Volley;N1-2;M
+8;Savo Volley;N2-2;M
+9;Savo Volley;B;M
+10;Savo Volley;B;M
+14;Savo Volley;U1-1;M
+21;Savo Volley;S2-2;M
+1;Lakkapaa.com;B;M
+5;Lakkapaa.com;N2-2;M
+10;Lakkapaa.com;N1-2;M
+7;Lakkapaa.com;U1-1-MVP;M
+9;Lakkapaa.com;S2-2;M
+12;Lakkapaa.com;B;M
+13;Lakkapaa.com;S1-2;M
+7;Etta Oulu;S1-2dolez;M
+10;Etta Oulu;U1-1dolez;M
+14;Etta Oulu;B;M
+15;Etta Oulu;B;M
+16;Etta Oulu;S2.2;M
+17;Etta Oulu;N1-1;M
+8;Raision Loimu;N2;M
+1;Raision Loimu;N1;M
+9;Raision Loimu;S2-2;M
+13;Raision Loimu;S1-22dolez;M
+14;Raision Loimu;B;M
+15;Raision Loimu;B;M
+16;Raision Loimu;U1-1;M
+1;Akaa-Volley;S;M
+2;Akaa-Volley;S;M
+5;Akaa-Volley;U;M
+7;Akaa-Volley;B;M
+14;Akaa-Volley;B;M
+17;Akaa-Volley;N;M
+12;Karelian Hurmos;U1-1;M
+2;Karelian Hurmos;S2-2;M
+3;Karelian Hurmos;N2-2;M
+13;Karelian Hurmos;N1-2;M
+8;Karelian Hurmos;B;M
+9;Karelian Hurmos;S1-2;M
+10;Karelian Hurmos;B;M
+4;Kokkolan Tiikerit;N1-1;M
+7;Kokkolan Tiikerit;S2-2;M
+11;Kokkolan Tiikerit;B;M
+12;Kokkolan Tiikerit;U1-1;M
+13;Kokkolan Tiikerit;S1-2;M
+15;Kokkolan Tiikerit;B;M
+7;VaLePa Sastamala Tampere;N1-1;M
+8;VaLePa Sastamala Tampere;B;M
+10;VaLePa Sastamala Tampere;B;M
+11;VaLePa Sastamala Tampere;U1-1;M
+17;VaLePa Sastamala Tampere;S1-2;M
+23;VaLePa Sastamala Tampere;S2-2;M
+1;JymyVolley;S1-2;F
+5;JymyVolley;S2-2;F
+9;JymyVolley;B;F
+11;JymyVolley;B;F
+2;JymyVolley;N2-2;F
+12;JymyVolley;N1-2;F
+15;JymyVolley;U1-1;F
+4;LP-Vampula;B;F
+7;LP-Vampula;S2-2;F
+8;LP-Vampula;S1-2 dolez;F
+10;LP-Vampula;B;F
+14;LP-Vampula;N1-1;F
+5;LP-Vampula;S3;F
+1;LP-Vampula;U1-1dolez;F
+1;WoVo Rovaniemi;N1-1;F
+2;WoVo Rovaniemi;B;F
+4;WoVo Rovaniemi;B;F
+3;WoVo Rovaniemi;S1-2;F
+7;WoVo Rovaniemi;U1-1MVP;F
+12;WoVo Rovaniemi;S2-2;F
+3;Puijo Wolley;S2-3;F
+4;Puijo Wolley;S1-3MVP;F
+8;Puijo Wolley;S3-3;F
+16;Puijo Wolley;N2-2;F
+9;Puijo Wolley;B;F
+10;Puijo Wolley;N1-2;F
+12;Puijo Wolley;U1-1;F
+15;Puijo Wolley;B;F
+1;Hämeenlinnan Lentopallokerho;S1-2-MVP;F
+7;Hämeenlinnan Lentopallokerho;S2-2;F
+9;Hämeenlinnan Lentopallokerho;B;F
+10;Hämeenlinnan Lentopallokerho;U1-1;F
+2;Hämeenlinnan Lentopallokerho;N2-2;F
+15;Hämeenlinnan Lentopallokerho;B;F
+17;Hämeenlinnan Lentopallokerho;N1-2;F
+1;Oriveden Ponnistus;B;F
+3;Oriveden Ponnistus;B;F
+14;Oriveden Ponnistus;U1-1;F
+5;Oriveden Ponnistus;S1-2;F
+7;Oriveden Ponnistus;S2-2;F
+20;Oriveden Ponnistus;N1-1;F
+1;Pölkky Kuusamo;B;F
+4;Pölkky Kuusamo;B1;F
+6;Pölkky Kuusamo;S1-3;F
+8;Pölkky Kuusamo;S3-3;F
+10;Pölkky Kuusamo;U1-1;F
+13;Pölkky Kuusamo;S2-3;F
+17;Pölkky Kuusamo;N1-1;F
+1;LP Viesti;N1-1;F
+3;LP Viesti;S1-2;F
+4;LP Viesti;S2-2;F
+7;LP Viesti;B;F
+9;LP Viesti;U1-1;F
+14;LP Viesti;B;F
+9;LiigaPloki;N1-2;F
+19;LiigaPloki;N2-2;F
+10;LiigaPloki;S1-2 Smec naj hracky;F
+11;LiigaPloki;S2-2 Smec naj hracky;F
+12;LiigaPloki;U1-1;F
+1;LiigaPloki;B;F
+23;LiigaPloki;B;F
+1;LP Kangasala;U1-1;F
+3;LP Kangasala;N1-1;F
+4;LP Kangasala;B;F
+10;LP Kangasala;B;F
+11;LP Kangasala;S1-2;F
+13;LP Kangasala;S2-2;F
+99;Kuortaneen Urheiluopisto;X;F
+6;VC Tirol;N1-2;F
+4;VC Tirol;N2-2;F
+5;VC Tirol;B;F
+9;VC Tirol;U1-1;F
+10;VC Tirol;B;F
+12;VC Tirol;S1-3;F
+15;VC Tirol;S2-3;F
+16;VC Tirol;S3-3;F
+1;PSV VBG Salzburg;B;F
+2;PSV VBG Salzburg;B;F
+5;PSV VBG Salzburg;N1-1;F
+9;PSV VBG Salzburg;S1-2;F
+11;PSV VBG Salzburg;S2-2;F
+12;PSV VBG Salzburg;U1-1;F
+6;UVC Holding Graz;B-dolezita;F
+9;UVC Holding Graz;S1-3;F
+11;UVC Holding Graz;S2-3;F
+12;UVC Holding Graz;U1-1;F
+16;UVC Holding Graz;N1-1;F
+18;UVC Holding Graz;S3-3;F
+17;UVC Holding Graz;B Ž;F
+1;TI-abc-fliesen-volley;S1-2 MVP;F
+3;TI-abc-fliesen-volley;S2-2;F
+7;TI-abc-fliesen-volley;U1-1;F
+8;TI-abc-fliesen-volley;B;F
+9;TI-abc-fliesen-volley;N1-1;F
+12;TI-abc-fliesen-volley;B;F
+1;ATSC Kelag Wildcats Klagenfurt;B;F
+7;ATSC Kelag Wildcats Klagenfurt;B;F
+8;ATSC Kelag Wildcats Klagenfurt;N1-2;F
+12;ATSC Kelag Wildcats Klagenfurt;U1-1;F
+5;ATSC Kelag Wildcats Klagenfurt;S2-3;F
+14;ATSC Kelag Wildcats Klagenfurt;N2-2;F
+3;ATSC Kelag Wildcats Klagenfurt;S3-3;F
+15;ATSC Kelag Wildcats Klagenfurt;B;F
+18;ATSC Kelag Wildcats Klagenfurt;S1-3;F
+2;ASKÖ Steelvolleys Linz/Steg;B;F
+9;ASKÖ Steelvolleys Linz/Steg;B;F
+10;ASKÖ Steelvolleys Linz/Steg;U1-2;F
+12;ASKÖ Steelvolleys Linz/Steg;N1-1;F
+13;ASKÖ Steelvolleys Linz/Steg;S1-3;F
+15;ASKÖ Steelvolleys Linz/Steg;S2-3;F
+17;ASKÖ Steelvolleys Linz/Steg;S3-3/U2-2;F
+2;SG VB NÖ Sokol/Post;S1-2;F
+6;SG VB NÖ Sokol/Post;B;F
+7;SG VB NÖ Sokol/Post;B mozno U;F
+12;SG VB NÖ Sokol/Post;B;F
+13;SG VB NÖ Sokol/Post;U;F
+10;SG VB NÖ Sokol/Post;N1-1;F
+17;SG VB NÖ Sokol/Post;S2-2;F
+2;SG Erzbergmadln VBV Trofaiach/WSV Eisenerz;S2-3;F
+5;SG Erzbergmadln VBV Trofaiach/WSV Eisenerz;B;F
+7;SG Erzbergmadln VBV Trofaiach/WSV Eisenerz;S3-3;F
+6;SG Erzbergmadln VBV Trofaiach/WSV Eisenerz;U1-1;F
+8;SG Erzbergmadln VBV Trofaiach/WSV Eisenerz;S1-3;F
+14;SG Erzbergmadln VBV Trofaiach/WSV Eisenerz;N1-1;F
+24;SG Erzbergmadln VBV Trofaiach/WSV Eisenerz;B;F
+1;SG UNIONvolleys Bisamberg/Hollabrunn;B;F
+8;SG UNIONvolleys Bisamberg/Hollabrunn;N1-1;F
+10;SG UNIONvolleys Bisamberg/Hollabrunn;S3-3;F
+12;SG UNIONvolleys Bisamberg/Hollabrunn;S1-3;F
+18;SG UNIONvolleys Bisamberg/Hollabrunn;S2-3;F
+19;SG UNIONvolleys Bisamberg/Hollabrunn;B;F
+20;SG UNIONvolleys Bisamberg/Hollabrunn;U1-1;F
+2;TSV Sparkasse Hartberg;B Ž;F
+3;TSV Sparkasse Hartberg;N1-1;F
+7;TSV Sparkasse Hartberg;B Ž;F
+8;TSV Sparkasse Hartberg;U1-2;F
+19;TSV Sparkasse Hartberg;U2-2;F
+15;TSV Sparkasse Hartberg;S2-2;F
+18;TSV Sparkasse Hartberg;S1-2;F
+1;VCA Amstetten NÖ;S1-2;M
+7;VCA Amstetten NÖ;U1-1-MVP;M
+9;VCA Amstetten NÖ;B;M
+10;VCA Amstetten NÖ;S1-2;M
+14;VCA Amstetten NÖ;B;M
+18;VCA Amstetten NÖ;N1-1;M
+1;SG UVC Weberzeile Ried/Innkreis;B;M
+3;SG UVC Weberzeile Ried/Innkreis;N1-1;M
+10;SG UVC Weberzeile Ried/Innkreis;S3-3;M
+12;SG UVC Weberzeile Ried/Innkreis;B;M
+13;SG UVC Weberzeile Ried/Innkreis;U;M
+15;SG UVC Weberzeile Ried/Innkreis;S2-3;M
+24;SG UVC Weberzeile Ried/Innkreis;S1-3;M
+2;VBC TLC Weiz;N1-2;M
+16;VBC TLC Weiz;N2-2;M
+11;VBC TLC Weiz;U2-2;M
+3;VBC TLC Weiz;B;M
+4;VBC TLC Weiz;U1-2;M
+7;VBC TLC Weiz;S1-2;M
+14;VBC TLC Weiz;S2-2;M
+20;VBC TLC Weiz;B;M
+6;TJ Sokol Wien V;S1-3;M
+10;TJ Sokol Wien V;B;M
+11;TJ Sokol Wien V;S3-3;M
+12;TJ Sokol Wien V;U1-1MVP;M
+14;TJ Sokol Wien V;B;M
+16;TJ Sokol Wien V;N;M
+18;TJ Sokol Wien V;S2-3;M
+1;VBK Wörther-See-Löwen Klagenfurt;N1-1;M
+2;VBK Wörther-See-Löwen Klagenfurt;B;M
+3;VBK Wörther-See-Löwen Klagenfurt;U1-1;M
+4;VBK Wörther-See-Löwen Klagenfurt;S1-2;M
+8;VBK Wörther-See-Löwen Klagenfurt;B;M
+16;VBK Wörther-See-Löwen Klagenfurt;S2-2;M
+2;SK Zadruga Aich/Dob;S2-2;M
+11;SK Zadruga Aich/Dob;N2-2;M
+1;SK Zadruga Aich/Dob;U2-2;M
+4;SK Zadruga Aich/Dob;U1-2;M
+6;SK Zadruga Aich/Dob;B;M
+7;SK Zadruga Aich/Dob;B;M
+9;SK Zadruga Aich/Dob;S1-2;M
+13;SK Zadruga Aich/Dob;N1-2;M
+1;Union Raiffeisen Waldviertel;B;M
+4;Union Raiffeisen Waldviertel;S2-3;M
+9;Union Raiffeisen Waldviertel;S3-3;M
+6;Union Raiffeisen Waldviertel;N1-1;M
+11;Union Raiffeisen Waldviertel;U1-1;M
+17;Union Raiffeisen Waldviertel;S1-3;M
+18;Union Raiffeisen Waldviertel;B;M
+2;UVC Holding Graz;S1-2;M
+21;UVC Holding Graz;U2-2;M
+9;UVC Holding Graz;S1-2;M
+10;UVC Holding Graz;N1-1;M
+13;UVC Holding Graz;U1-2;M
+12;UVC Holding Graz;B;M
+16;UVC Holding Graz;B;M
+2;ACH Volley LJUBLJANA (SLO);N1-1;M
+12;ACH Volley LJUBLJANA (SLO);S3;M
+7;ACH Volley LJUBLJANA (SLO);B;M
+16;ACH Volley LJUBLJANA (SLO);S1-3;M
+12;ACH Volley LJUBLJANA (SLO);S3-3;M
+17;ACH Volley LJUBLJANA (SLO);B;M
+18;ACH Volley LJUBLJANA (SLO);S2-3;M
+22;ACH Volley LJUBLJANA (SLO);U2-2;M
+23;ACH Volley LJUBLJANA (SLO);U1-2;M
+6;OK MARIBOR (SLO);B;M
+9;OK MARIBOR (SLO);S1-1MVP;M
+11;OK MARIBOR (SLO);S3-4;M
+13;OK MARIBOR (SLO);B;M
+17;OK MARIBOR (SLO);N1-1;M
+21;OK MARIBOR (SLO);S2-4;M
+24;OK MARIBOR (SLO);U1-1;M
+4;OK Calcit KAMNIK (SLO);B;M
+5;OK Calcit KAMNIK (SLO);S2-2;M
+6;OK Calcit KAMNIK (SLO);U1-1MVP;M
+7;OK Calcit KAMNIK (SLO);S1-2MVP;M
+10;OK Calcit KAMNIK (SLO);N1-1;M
+12;OK Calcit KAMNIK (SLO);B1-2;M
+2;UVC Holding GRAZ (AUT);S1-2;M
+21;UVC Holding GRAZ (AUT);U2-2;M
+9;UVC Holding GRAZ (AUT);S1-2;M
+10;UVC Holding GRAZ (AUT);N1-1;M
+13;UVC Holding GRAZ (AUT);U1-2;M
+12;UVC Holding GRAZ (AUT);B;M
+16;UVC Holding GRAZ (AUT);B;M
+2;SK Zadruga AICH/DOB (AUT);S2-2;M
+11;SK Zadruga AICH/DOB (AUT);N2-2;M
+1;SK Zadruga AICH/DOB (AUT);U2-2;M
+4;SK Zadruga AICH/DOB (AUT);U1-2;M
+6;SK Zadruga AICH/DOB (AUT);B;M
+7;SK Zadruga AICH/DOB (AUT);B;M
+9;SK Zadruga AICH/DOB (AUT);S1-2;M
+13;SK Zadruga AICH/DOB (AUT);N1-2;M
+1;Union Raiffeisen WALDVIERTEL (AUT);B;M
+4;Union Raiffeisen WALDVIERTEL (AUT);S2-3;M
+9;Union Raiffeisen WALDVIERTEL (AUT);S3-3;M
+6;Union Raiffeisen WALDVIERTEL (AUT);N1-1;M
+11;Union Raiffeisen WALDVIERTEL (AUT);U1-1;M
+17;Union Raiffeisen WALDVIERTEL (AUT);S1-3;M
+18;Union Raiffeisen WALDVIERTEL (AUT);B;M
+1;Conectabalear CV Manacor;S1-2;M
+5;Conectabalear CV Manacor;N1-1;M
+2;Conectabalear CV Manacor;U2-2;M
+7;Conectabalear CV Manacor;S2-2;M
+9;Conectabalear CV Manacor;B;M
+10;Conectabalear CV Manacor;U1-2;M
+14;Conectabalear CV Manacor;B;M
+3;Club Voleibol Teruel;S3-3;M
+7;Club Voleibol Teruel;S2-3;M
+8;Club Voleibol Teruel;N1-1;M
+9;Club Voleibol Teruel;B;M
+15;Club Voleibol Teruel;B;M
+19;Club Voleibol Teruel;U1-1-Gavo;M
+21;Club Voleibol Teruel;S1-3;M
+2;Voleibol Almoradí;N1-1;M
+5;Voleibol Almoradí;S3-3;M
+7;Voleibol Almoradí;U1-1;M
+14;Voleibol Almoradí;S2-3;M
+6;Voleibol Almoradí;S1-3;M
+10;Voleibol Almoradí;B;M
+3;Melilla Sport Capital;S1-3;M
+11;Melilla Sport Capital;B2;M
+8;Melilla Sport Capital;S3-3;M
+10;Melilla Sport Capital;N1-1;M
+21;Melilla Sport Capital;S2-3;M
+14;Melilla Sport Capital;U1-1;M
+17;Melilla Sport Capital;B;M
+2;UD Ibiza Ushuaïa Volley;B;M
+8;UD Ibiza Ushuaïa Volley;S1-2;M
+3;UD Ibiza Ushuaïa Volley;N;M
+4;UD Ibiza Ushuaïa Volley;U;M
+10;UD Ibiza Ushuaïa Volley;S2-2;M
+16;UD Ibiza Ushuaïa Volley;B;M
+1;Urbia Uenergia Voley Palma;B;M
+2;Urbia Uenergia Voley Palma;N1-1;M
+11;Urbia Uenergia Voley Palma;S2-3;M
+4;Urbia Uenergia Voley Palma;S1-3;M
+6;Urbia Uenergia Voley Palma;B;M
+13;Urbia Uenergia Voley Palma;U1-1MVP;M
+21;Urbia Uenergia Voley Palma;S3-3;M
+1;Unicaja Costa de Almería;U1-1;M
+3;Unicaja Costa de Almería;S3-3;M
+4;Unicaja Costa de Almería;N1-1;M
+9;Unicaja Costa de Almería;B;M
+13;Unicaja Costa de Almería;S1-3;M
+10;Unicaja Costa de Almería;S2-3;M
+14;Unicaja Costa de Almería;B;M
+3;Arenal Emevé;S2-3;M
+7;Arenal Emevé;N1-1;M
+8;Arenal Emevé;S3-3;M
+9;Arenal Emevé;B;M
+12;Arenal Emevé;B;M
+6;Arenal Emevé;U1-1;M
+17;Arenal Emevé;S1-3;M
+4;Rotogal Boiro;B;M
+7;Rotogal Boiro;S2-2;M
+9;Rotogal Boiro;S1-2;M
+10;Rotogal Boiro;N1-1;M
+11;Rotogal Boiro;U1-1;M
+16;Rotogal Boiro;B;M
+2;CV Guaguas;S1-2MVP;M
+5;CV Guaguas;B;M
+8;CV Guaguas;N1-1;M
+10;CV Guaguas;S1-2;M
+13;CV Guaguas;B;M
+16;CV Guaguas;U1-1MVP;M
+3;UBE L´Illa Grau;S2-3;M
+4;UBE L´Illa Grau;U1-1;M
+6;UBE L´Illa Grau;B;M
+8;UBE L´Illa Grau;N1-2;M
+10;UBE L´Illa Grau;B;M
+14;UBE L´Illa Grau;S3-3;M
+15;UBE L´Illa Grau;S1-3;M
+19;UBE L´Illa Grau;N2-2;M
+17;Barça Voleibol;B;M
+8;Barça Voleibol;S2-2;M
+9;Barça Voleibol;S1-2;M
+10;Barça Voleibol;N1-1;M
+11;Barça Voleibol;U1-1MVP;M
+18;Barça Voleibol;B1;M
+2;Rio Duero Soria;S2-2;M
+6;Rio Duero Soria;B;M
+9;Rio Duero Soria;S1-2;M
+14;Rio Duero Soria;U1-1;M
+16;Rio Duero Soria;B;M
+17;Rio Duero Soria;N1-1;M
+4;Voley Textil Santanderina;U1-2;M
+6;Voley Textil Santanderina;N1-1;M
+9;Voley Textil Santanderina;S3-3;M
+8;Voley Textil Santanderina;S2-3;M
+10;Voley Textil Santanderina;S1-3;M
+12;Voley Textil Santanderina;B;M
+13;Voley Textil Santanderina;B;M
+17;Voley Textil Santanderina;U2-2;M
+7;Arenal Emevé;N1-2;F
+9;Arenal Emevé;N2-2;F
+10;Arenal Emevé;U2-2;F
+8;Arenal Emevé;B;F
+3;Arenal Emevé;U1-2;F
+13;Arenal Emevé;B;F
+15;Arenal Emevé;S1-2;F
+20;Arenal Emevé;S2-2;F
+2;Sanaya Libby's La Laguna;N1-1;F
+1;Sanaya Libby's La Laguna;U1-1;F
+6;Sanaya Libby's La Laguna;S2-2;F
+10;Sanaya Libby's La Laguna;B;F
+15;Sanaya Libby's La Laguna;B;F
+17;Sanaya Libby's La Laguna;S1-2;F
+2;CV Kiele;N1-1;F
+5;CV Kiele;U1-1;F
+6;CV Kiele;B;F
+8;CV Kiele;S2-3;F
+16;CV Kiele;S3-3;F
+10;CV Kiele;B;F
+15;CV Kiele;S1-3MVP;F
+2;OSACC Haro Rioja Voley;B;F
+12;OSACC Haro Rioja Voley;S1-2;F
+7;OSACC Haro Rioja Voley;S1-2;F
+16;OSACC Haro Rioja Voley;N2-2;F
+10;OSACC Haro Rioja Voley;N1-2;F
+11;OSACC Haro Rioja Voley;B;F
+9;OSACC Haro Rioja Voley;U2-2;F
+17;OSACC Haro Rioja Voley;U1-2;F
+4;AD Algar Surmenor;Uslaba;F
+7;AD Algar Surmenor;B;F
+9;AD Algar Surmenor;S1-3;F
+10;AD Algar Surmenor;N1-1;F
+13;AD Algar Surmenor;B;F
+18;AD Algar Surmenor;S2-3;F
+5;Madrid Chamberí;U1-1;F
+1;Madrid Chamberí;N1-2;F
+8;Madrid Chamberí;S1-2-MVP;F
+9;Madrid Chamberí;N2-2;F
+12;Madrid Chamberí;B;F
+15;Madrid Chamberí;S2-2;F
+16;Madrid Chamberí;B;F
+1;Avarca Menorca;S1-2;F
+9;Avarca Menorca;N1-1;F
+11;Avarca Menorca;B;F
+12;Avarca Menorca;S2-2;F
+14;Avarca Menorca;U1-1;F
+15;Avarca Menorca;B;F
+1;CV Sayre CC La Ballena;B;F
+4;CV Sayre CC La Ballena;S2-3;F
+8;CV Sayre CC La Ballena;N2-2;F
+7;CV Sayre CC La Ballena;S1-3;F
+9;CV Sayre CC La Ballena;S3-3;F
+11;CV Sayre CC La Ballena;U2-2;F
+10;CV Sayre CC La Ballena;N1-2;F
+17;CV Sayre CC La Ballena;B1;F
+22;CV Sayre CC La Ballena;U1-2;F
+8;IBSA CV CCO 7 Palmas;S2-3;F
+9;IBSA CV CCO 7 Palmas;B;F
+10;IBSA CV CCO 7 Palmas;N1-1;F
+11;IBSA CV CCO 7 Palmas;S3-3/U2-2;F
+12;IBSA CV CCO 7 Palmas;B;F
+13;IBSA CV CCO 7 Palmas;S1-3;F
+14;IBSA CV CCO 7 Palmas;U1-2;F
+1;DSV CV Sant Cugat;B;F
+4;DSV CV Sant Cugat;S1-3;F
+5;DSV CV Sant Cugat;S2-3;F
+7;DSV CV Sant Cugat;S3-3;F
+10;DSV CV Sant Cugat;B;F
+11;DSV CV Sant Cugat;N1-1;F
+18;DSV CV Sant Cugat;U1-1;F
+2;Cajasol Voley Dos Hermanas;U1-1MVP;F
+3;Cajasol Voley Dos Hermanas;B;F
+4;Cajasol Voley Dos Hermanas;S2-3;F
+8;Cajasol Voley Dos Hermanas;S1-3MVP;F
+11;Cajasol Voley Dos Hermanas;B;F
+12;Cajasol Voley Dos Hermanas;S3-3;F
+14;Cajasol Voley Dos Hermanas;N1-1;F
+1;Feel Volley Alcobendas;B;F
+5;Feel Volley Alcobendas;U1-1;F
+6;Feel Volley Alcobendas;S1-2;F
+9;Feel Volley Alcobendas;B;F
+10;Feel Volley Alcobendas;S2-2;F
+12;Feel Volley Alcobendas;N1-1;F
+5;Projekt RD SVF;S dolezity;F
+9;Projekt RD SVF;S dolezity;F
+11;Projekt RD SVF;B;F
+13;Projekt RD SVF;B;F
+16;Projekt RD SVF;N;F
+17;Projekt RD SVF;U;F
+5;Volley project UKF Nitra;S1;F
+8;Volley project UKF Nitra;B;F
+10;Volley project UKF Nitra;S;F
+11;Volley project UKF Nitra;B;F
+12;Volley project UKF Nitra;N;F
+18;Volley project UKF Nitra;U;F
+2;Strabag VC Bilíkova Pezinok;S;F
+12;Strabag VC Bilíkova Pezinok;N;F
+14;Strabag VC Bilíkova Pezinok;B;F
+15;Strabag VC Bilíkova Pezinok;U;F
+2;VK Nové Mesto nad Váhom;S;F
+3;VK Nové Mesto nad Váhom;N;F
+5;VK Nové Mesto nad Váhom;B;F
+10;VK Nové Mesto nad Váhom;B;F
+14;VK Nové Mesto nad Váhom;S;F
+18;VK Nové Mesto nad Váhom;U;F
+1;VK Pirane Brusno;N;F
+2;VK Pirane Brusno;S;F
+8;VK Pirane Brusno;S;F
+9;VK Pirane Brusno;B;F
+11;VK Pirane Brusno;U;F
+15;VK Pirane Brusno;B;F
+2;VK Slávia EU Bratislava;S1;F
+4;VK Slávia EU Bratislava;S2;F
+7;VK Slávia EU Bratislava;U;F
+8;VK Slávia EU Bratislava;N;F
+9;VK Slávia EU Bratislava;B1;F
+13;VK Slávia EU Bratislava;B;F
+3;VK Slávia EU Bratislava;S3;F
+4;Hit UCM Trnava;B;F
+8;Hit UCM Trnava;S;F
+9;Hit UCM Trnava;U;F
+12;Hit UCM Trnava;N;F
+13;Hit UCM Trnava;B;F
+16;Hit UCM Trnava;S;F
+2;VK Prešov;B;F
+4;VK Prešov;B;F
+7;VK Prešov;N;F
+10;VK Prešov;S;F
+11;VK Prešov;U;F
+13;VK Prešov;S;F
+1;Rieker UJS Komárno;S3-3;M
+4;Rieker UJS Komárno;N1-1;M
+7;Rieker UJS Komárno;B1;M
+8;Rieker UJS Komárno;B;M
+9;Rieker UJS Komárno;U1-1;M
+18;Rieker UJS Komárno;S2-3;M
+1;TJ Spartak Myjava;B;M
+2;TJ Spartak Myjava;S2-2;M
+6;TJ Spartak Myjava;B1;M
+7;TJ Spartak Myjava;U;M
+8;TJ Spartak Myjava;N1-2;M
+11;TJ Spartak Myjava;S1-2;M
+13;TJ Spartak Myjava;N2-2;M
+1;VK KDS Šport Košice;N1-2;M
+2;VK KDS Šport Košice;S2-3;M
+3;VK KDS Šport Košice;U1-1 dolezity;M
+4;VK KDS Šport Košice;B;M
+12;VK KDS Šport Košice;B;M
+17;VK KDS Šport Košice;S1-3;M
+5;VKP Bratislava;S2-2 dolezity;M
+6;VKP Bratislava;N1-2;M
+7;VKP Bratislava;B;M
+14;VKP Bratislava;U1-1 dolezity;M
+16;VKP Bratislava;B;M
+18;VKP Bratislava;S1-2 dolezity;M
+3;VK MIRAD UNIPO Prešov;Szarek;M
+4;VK MIRAD UNIPO Prešov;Scerba;M
+7;VK MIRAD UNIPO Prešov;Porubsky;M
+9;VK MIRAD UNIPO Prešov;Mikovcik;M
+10;VK MIRAD UNIPO Prešov;Macko;M
+13;VK MIRAD UNIPO Prešov;Sopko;M
+8;VK MIRAD UNIPO Prešov;Hudak;M
+99;ŠŠ volejbal Trenčín;XXX;X
+99;TJ Slávia Svidník;XXX;X
+99;VK OSMOS Prievidza;XXX;X
