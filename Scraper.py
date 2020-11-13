@@ -101,8 +101,8 @@ def field_function(driver, table_to_check, gender, home_team, guest_team):
     missing_players_on_the_field = f"""{missing_players_home_on_the_field}
             {missing_players_guest_on_the_field}
             """
-    account_sid = "AC73f3c1e258b6c6d21a596e5682315c96"
-    auth_token = "d7104da5ea2b1e375b98f3816295fec6"
+    account_sid = account_sid
+    auth_token = auth_token
     client = Client(account_sid, auth_token)
 
     client.messages.create(
@@ -207,8 +207,8 @@ def get_players_on_the_field(men_competition_url, button_index, gender):
         missing_players = f"""{missing_players_home}
             {missing_players_guest}
             """
-        account_sid = "AC73f3c1e258b6c6d21a596e5682315c96"
-        auth_token = "d7104da5ea2b1e375b98f3816295fec6"
+        account_sid = account_sid
+        auth_token = auth_token
         client = Client(account_sid, auth_token)
 
         client.messages.create(
